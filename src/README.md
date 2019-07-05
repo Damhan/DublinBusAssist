@@ -1,1 +1,2 @@
-All of your source code (and other program resources) should be placed in this sub-directory.
+Python Backend - The backend that caches bus history for prediction
+app - The Android application frontend of the project.

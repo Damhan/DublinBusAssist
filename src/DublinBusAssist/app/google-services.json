@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "937143905069",
+    "firebase_url": "https://dublin-bus-assist.firebaseio.com",
+    "project_id": "dublin-bus-assist",
+    "storage_bucket": "dublin-bus-assist.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937143905069:android:f2fab3471e1320bc",
+        "android_client_info": {
+          "package_name": "com.damhan.dublinbusassist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "937143905069-3fcasck06oe7oh0ddqks2ibgt2fha5nl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXMk3prnAitb8tg52YnEoeo4QFEhjzAxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "937143905069-3fcasck06oe7oh0ddqks2ibgt2fha5nl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

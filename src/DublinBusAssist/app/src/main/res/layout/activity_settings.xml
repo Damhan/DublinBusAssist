@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <TextView
+        android:id="@+id/sbyText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:textColor="@color/colorPrimaryDark"
+        android:text="About"
+        android:textSize="30sp"
+
+        tools:text="About" />
+
+
+    <TextView
+        android:id="@+id/setMainText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+
+        android:text="Dublin Bus Assist aims to provide more accurate real time passenger information by
+flagging any buses that could prove unreliable.\n\n
+To Use this application, simply enter the desired stop number you wish to search for in the field on the 'Search by Stop Number' page.\n\n
+Press Get Buses, and your results will be displayed. \n\n
+Any buses that could be problematic will be flagged with three asterisks '***'"
+        android:textSize="20sp"
+        android:layout_centerVertical="true"
+         />
+
+</RelativeLayout>
